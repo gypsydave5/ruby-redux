@@ -4,6 +4,8 @@ Ruby Redux
 
 We were dropped these failing tests as a Friday Challenge at the end of week 8 at Makers Academy. Great to get my hands on some Ruby again after a week spent slaying the JS dragon. And it was great to see how far I'd come -- my solutions came to me naturally, withough much of a struggle, and looked pretty elegant too (bit scrappy at the end). I'm proud of my code.
 
+The brief was as follows...
+
 
 ## Friday test!
 
